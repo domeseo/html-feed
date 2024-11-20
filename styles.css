@@ -1,0 +1,89 @@
+
+body {
+    background-color: rgb(216, 208, 208);
+    margin:0;
+}
+
+header {
+    text-align: center;
+    margin:0;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+header h1 {
+    margin:0;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.full_feed {
+    background-color: white;
+    width: 500px;
+    border: 1px red solid;
+    margin:auto;
+    border-radius: 10px;
+    margin-bottom: 25px;
+
+}
+
+.caption p {
+    margin-left: 5px;
+    font-family: Roboto;
+    color:gray;
+    font-size: 14px;
+}
+
+.feedtitle {
+    display:flex;
+}
+
+.feedtitle h2 {
+    width: 500px;
+    margin-left: 5px;
+    font-family: Roboto;
+    margin-top:11px;
+    font-size: 18px;
+}
+
+.feedtitle p {
+    margin-right: 2px;
+    font-family: Roboto;
+}
+
+.imagefeed img {
+    width:100%;
+}
+
+
+
+/* .imagefeed img {
+    width: 500px;
+    margin-left: 700px;
+    margin-top: 10px;
+} */
+
+/* .feedtitle {
+    display: flex;
+
+} 
+
+.photo_title {
+    display: block;
+    margin-left: 700px;
+
+}
+
+.photo_number {
+    margin-left: 420px;
+}
+
+.caption {
+    width: 500px;
+    margin-left: 700px;
+} 
+
+.full_feed {
+    background-color: white;
+
+} */
