@@ -20,7 +20,7 @@ header h1 {
 .full_feed {
     background-color: white;
     width: 500px;
-    border: 1px red solid;
+    border: 1px grey solid;
     margin:auto;
     border-radius: 10px;
     margin-bottom: 25px;
@@ -28,7 +28,7 @@ header h1 {
 }
 
 .caption p {
-    margin-left: 5px;
+    margin-left: 15px;
     font-family: Roboto;
     color:gray;
     font-size: 14px;
@@ -40,14 +40,14 @@ header h1 {
 
 .feedtitle h2 {
     width: 500px;
-    margin-left: 5px;
+    margin-left: 15px;
     font-family: Roboto;
-    margin-top:11px;
+    margin-top:13px;
     font-size: 18px;
 }
 
 .feedtitle p {
-    margin-right: 2px;
+    margin-right: 15px;
     font-family: Roboto;
 }
 
